@@ -1,6 +1,6 @@
 <template>
   <div class="store">
-    <h1>This is an store page</h1>
+    <h1>Storing Things</h1>
     <button @click="reset">Reset</button>
   </div>
 </template>

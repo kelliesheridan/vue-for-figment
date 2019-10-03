@@ -1,6 +1,6 @@
 <template>
   <div class="route">
-    <h1>This is a ROUTE page</h1>
+    <h1>Routing Things</h1>
     <button @click="increment">+</button>
     <button @click="decrement">-</button> <br />
   </div>
